@@ -45,7 +45,7 @@ class _Flutter_WheelState extends State<Flutter_Wheel> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter Team Awesome'),
+        title: Text('Flutter Team Awesome - 돌려돌려 돌림판'),
       ),
       body: GestureDetector(
         onTap: () {
